@@ -33,4 +33,6 @@ View(patient_info)
 
 write.csv(patient_info, file = "clean_data/patient_info_clean.csv")
 
+save.image(file="Christina_Antwi_Class_Ib_Assignment.RData")
+
 
